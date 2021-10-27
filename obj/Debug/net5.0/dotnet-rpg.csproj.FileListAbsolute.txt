@@ -34,3 +34,5 @@
 /Users/e.morgan/Documents/dotnet-RPG/obj/Debug/net5.0/ref/dotnet-rpg.dll
 /Users/e.morgan/Documents/dotnet-RPG/obj/Debug/net5.0/dotnet-rpg.pdb
 /Users/e.morgan/Documents/dotnet-RPG/obj/Debug/net5.0/dotnet-rpg.genruntimeconfig.cache
+/Users/e.morgan/Documents/dotnet-RPG/bin/Debug/net5.0/AutoMapper.dll
+/Users/e.morgan/Documents/dotnet-RPG/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
