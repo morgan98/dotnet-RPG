@@ -6,33 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46298d52-993c-41bd-a343-caf1e9b184ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AutoMapperProfile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Controllers/CharacterController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DTOS/Character/AddCharacterDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DTOS/Character/GetCharacterDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DTOS/Character/UpdateCharacterDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/Character.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/RpgClass.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/ServiceResponse.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/CharacterService/CharacterService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Services/CharacterService/ICharacterService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/DataContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.dotnet-RPG.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dotnet-RPG.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/dotnet-rpg.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/dotnet-rpg.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/dotnet-rpg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/dotnet-rpg.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/dotnet-rpg.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/dotnet-rpg.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net5.0/ref/dotnet-rpg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net5.0/ref/dotnet-rpg.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dotnet-RPG.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/dotnet-RPG.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.RazorTargetAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.RazorTargetAssemblyInfo.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/dotnet-rpg.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net5.0/ref/dotnet-rpg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0/ref/dotnet-rpg.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/dotnet-RPG.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/dotnet-RPG.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
@@ -74,6 +53,9 @@
       <option value="$PROJECT_DIR$/Services/CharacterService/ICharacterService.cs" />
       <option value="$PROJECT_DIR$/Services/CharacterService/CharacterService.cs" />
       <option value="$PROJECT_DIR$/Controllers/CharacterController.cs" />
+      <option value="$PROJECT_DIR$/dotnet-RPG.csproj" />
+      <option value="$PROJECT_DIR$/Data/DataContext.cs" />
+      <option value="$PROJECT_DIR$/appsettings.json" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="2007sAY9N96YJlQ8nfMQkjYEGzp" />
@@ -184,5 +166,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added Character Property + CRUD Operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Character Property + CRUD Operations" />
   </component>
 </project>
